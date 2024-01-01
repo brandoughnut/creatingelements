@@ -5,7 +5,7 @@ btnClick.addEventListener("click", function (e) {
 //   let h1 = document.createElement("h1");
 //   h1.textContent = "Hello World";
 //   injectHere.appendChild(h1);
-MakeCard('joe')
+MakeCard('Hello');
 });
 
 function MakeCard(cardTitle) {
